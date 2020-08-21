@@ -1,5 +1,9 @@
 # web.py changelog
 
+## 2020-08-21 0.41-dev0
+* Fix for system module dictionary modified exception during every request
+
+
 ## 2019-09-25 0.40
 
 Note: `0.40` is the last release which supports Python 2. Future releases will
